@@ -13,12 +13,15 @@ public class GameManager : MonoBehaviour
         "Star",
         "Teacher",
         "Turtle",
+        "Telephone",
         "Door",
         "Dog",
         "Elephant",
+        "Egg",
         "Shoes",
         "Shirt",
-        "Ship"
+        "Ship",
+        "Shark"
     };
 
     public int index;
