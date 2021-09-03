@@ -6207,13 +6207,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 743bf1d0d7a744751939c67d446fa837, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mSound: {fileID: 8300000, guid: 3e35caa9b4bea4e379b1215a74f57d93, type: 3}
-  aSound: {fileID: 8300000, guid: 343a90ba5fda04180a0b8be559c69c6c, type: 3}
-  sSound: {fileID: 8300000, guid: 15625692c711a4876a52f44c8c3b9e04, type: 3}
-  tSound: {fileID: 8300000, guid: 5e290109dd56943ce9da61b51b6f2107, type: 3}
-  dSound: {fileID: 8300000, guid: f53d01bac5daa48d4b44a64cea583991, type: 3}
-  eSound: {fileID: 8300000, guid: 62ad6954295b84856bc338cff263bfd3, type: 3}
-  shSound: {fileID: 8300000, guid: f735b2e045dbf4b9d9692f20cedf03b7, type: 3}
+  mSound: {fileID: 8300000, guid: b7eae14ad25c7430f9ca790cc93eb071, type: 3}
+  aSound: {fileID: 8300000, guid: f3b887891b73c4eceb72cf8f603ee9dc, type: 3}
+  sSound: {fileID: 8300000, guid: ed7e3fd0eebe94c39b37ce9349d695a0, type: 3}
+  tSound: {fileID: 8300000, guid: 32ddbcc2eb84645a581ce83c2239e9f1, type: 3}
+  dSound: {fileID: 8300000, guid: 358ef743ba83c4a57a4bd35ab8bb8b96, type: 3}
+  eSound: {fileID: 8300000, guid: 28f37a2074f3d455899a4d9708a1219d, type: 3}
+  shSound: {fileID: 8300000, guid: a62a8c05c4143461188b194c5699704c, type: 3}
   congratdSound: {fileID: 8300000, guid: 561021118f3ff42b6aeb7efe34c76004, type: 3}
 --- !u!82 &1856202982
 AudioSource:
