@@ -6161,7 +6161,7 @@ MonoBehaviour:
   dSound: {fileID: 8300000, guid: 358ef743ba83c4a57a4bd35ab8bb8b96, type: 3}
   eSound: {fileID: 8300000, guid: 28f37a2074f3d455899a4d9708a1219d, type: 3}
   shSound: {fileID: 8300000, guid: a62a8c05c4143461188b194c5699704c, type: 3}
-  congratdSound: {fileID: 8300000, guid: 561021118f3ff42b6aeb7efe34c76004, type: 3}
+  congratdSound: {fileID: 8300000, guid: ee15a0e9f13884eb8b32c05ed2231d2a, type: 3}
 --- !u!82 &1856202982
 AudioSource:
   m_ObjectHideFlags: 0
